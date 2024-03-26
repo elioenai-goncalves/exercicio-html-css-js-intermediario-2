@@ -1,0 +1,10 @@
+:root {
+  --familia-fonte: "Roboto", sans-serif;
+  --peso-titulo-principal: 700;
+  --peso-sub-titulo: 500;
+  --peso-texto: 300;
+  --tamanho-fonte-titulo: 25px;
+  --tamanho-fonte-sub-titulo: 17px;
+  --tamanho-fonte-texto: 15px;
+  --altura-linha-texto: 17.5px;
+}
